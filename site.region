@@ -154,7 +154,7 @@
 
         </div>
       </div>
-<p>Hello World</p>
+
       {@|apply footer.block}
 
     </div>
